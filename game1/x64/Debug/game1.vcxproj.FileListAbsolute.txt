@@ -1,0 +1,1 @@
+E:\c++code\study\make_game\game1\x64\Debug\game1.exe
